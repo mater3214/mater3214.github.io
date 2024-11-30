@@ -2,7 +2,7 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: 🙏 HELLO WORLD!
+title: 🙏 HI WELCOME TO ABOUT MYSELF 🙏
 description: 👉 My name is Pasin Harnkham Love You So Much❤️❤️.
 show_downloads: true
 google_analytics:
