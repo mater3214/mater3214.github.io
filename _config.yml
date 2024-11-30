@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: 6530250441
-description: 👉 This is Info About Me 👈 .
+description: 👉 This is info about Me 👈 .
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
