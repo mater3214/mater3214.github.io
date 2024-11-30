@@ -1,5 +1,6 @@
 #6530250441 นายพศิน หารคำ
-#Black box testing
+
+Keyword = "Black box testing"
 - CISSP Glossary
 - ChatGPT :
 การทดสอบที่ไม่มีการใช้รายละเอียดภายในของการทำงานหรือการออกแบบระบบ
