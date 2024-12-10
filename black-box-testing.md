@@ -30,7 +30,7 @@
 ---
 
 ## **URL**  
-- https://l3b1-qw.github.io/KamolphopPanbunlue/black-box%20testing
+- https://l3b1-qw.github.io/black-box%20testing
  - **ชื่อ:** นายพศิน หารคำ 6530250441
 
 
