@@ -1,8 +1,8 @@
-# 🎄🎄🎄 Merry Christmas and Happy New Year 2025 🎄🎄🎄
-> #  ⠀⠀⠀⠀🎉สุขสันต์วันคริสต์มาสและสวัสดีปีใหม่ 2025 🎉
+# 🎄🎄 Merry Christmas 🎄🎄
+> #  ⠀⠀⠀⠀🎉สุขสันต์วันคริสต์มาส 🎉
 
 
-### 🎅 🌟 Wishing you a Merry Christmas and a Happy New Year! 💖  
+### 🎅 🌟 Wishing you a Merry Christmas 💖  
 > ### ⠀ 🌟 ความสุขที่ไม่มีวันสิ้นสุด และความทรงจำที่อบอุ่น 💖
 
 ✨ During this joyful season, may you and your family be blessed with happiness, prosperity, and the warmth of love every day throughout the coming year.✨
