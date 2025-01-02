@@ -1,12 +1,28 @@
 # Uniqueness
 
-- Definition
-  - Uniqueness
-    [(Reference by precisely)](https://www.precisely.com/blog/data-quality/data-quality-dimensions-measure) 
-    “Unique” information means that there’s only one instance of it appearing in a database. Data duplication is a frequent occurrence. “Daniel A. Robertson” and “Dan A. Robertson” may well be the same person. 
+**Definition**
+- Uniqueness
+  [(Source by precisely)](https://www.precisely.com/blog/data-quality/data-quality-dimensions-measure) 
+  -  “Unique” information means that there’s only one instance of it appearing in a database. Data duplication is a frequent occurrence. “Daniel A. Robertson” and “Dan A. Robertson” may well be the same person. 
 
-- Chat GPT
-  - "Uniqueness" หรือ ความเป็นเอกลักษณ์ของข้อมูล ซึ่งหมายถึงการที่ข้อมูลในฐานข้อมูลปรากฏเพียงครั้งเดียว ไม่มีการซ้ำซ้อนกัน เช่น ข้อมูลของบุคคลคนหนึ่งที่อาจมีชื่อเขียนต่างกัน เช่น "Daniel A. Robertson" และ "Dan A. Robertson" ซึ่งอาจเป็นบุคคลเดียวกัน
+**Meaning by ChatGPT**
+- "Uniqueness" หรือ ความเป็นเอกลักษณ์ของข้อมูล ซึ่งหมายถึงการที่ข้อมูลในฐานข้อมูลปรากฏเพียงครั้งเดียว ไม่มีการซ้ำซ้อนกัน เช่น ข้อมูลของบุคคลคนหนึ่งที่อาจมีชื่อเขียนต่างกัน เช่น "Daniel A. Robertson" และ "Dan A. Robertson" ซึ่งอาจเป็นบุคคลเดียวกัน
 
-- Gemini
-  - "ข้อมูลที่ไม่ซ้ำกัน" หมายถึง ข้อมูลที่มีเพียงหนึ่งเดียวในฐานข้อมูลเท่านั้น การซ้ำซ้อนของข้อมูลเป็นเรื่องที่เกิดขึ้นบ่อยครั้ง เช่น "Daniel A. Robertson" และ "Dan A. Robertson" อาจเป็นบุคคลเดียวกันก็ได้
+**Meaning by Gemini**
+- "ข้อมูลที่ไม่ซ้ำกัน" หมายถึง ข้อมูลที่มีเพียงหนึ่งเดียวในฐานข้อมูลเท่านั้น การซ้ำซ้อนของข้อมูลเป็นเรื่องที่เกิดขึ้นบ่อยครั้ง เช่น "Daniel A. Robertson" และ "Dan A. Robertson" อาจเป็นบุคคลเดียวกันก็ได้
+
+**My Summary**
+- Uniqueness ก็จะหมายถึงการที่ข้อมูลไม่มีการซ้ำกันเลยมีเอกลักษณ์เป็นของตัวเอง เป็นข้อมูลทีมื่อเพียงตัวเดียวในฐานข้อมูล ช่วยจัดการกับข้อมูลที่ซ้ำไม่ให้เกิดข้อผิดพลาดในระบบ
+
+**Sample**
+- ธุรกิจร้านค้าออนไลน์
+  - คุณเปิดร้านค้าออนไลน์และมีฐานข้อมูลลูกค้า แต่ในระบบพบว่ามีข้อมูลลูกค้าซ้ำ เช่น:
+    > "สมชาย ใจดี" และ "Somsai Jaidee" มีหมายเลขโทรศัพท์เดียวกัน แต่ถูกบันทึกเป็นคนละรายการทำให้ระบบส่งอีเมลโปรโมชั่นซ้ำซ้อน และลูกค้าไม่พอใจ
+
+- ระบบการศึกษา
+  - โรงเรียนบันทึกข้อมูลนักเรียนในระบบ เช่น:
+    > "นางสาวกัญญารัตน์ สมหมาย" และ "กัญญารัตน์ สมหมาย" ถูกบันทึกเป็นนักเรียน 2 คน ผลคือ มีการคำนวณเกรดผิดพลาด และนักเรียนคนนี้ถูกเชิญเข้าร่วมกิจกรรมซ้ำ
+
+- โรงพยาบาล
+  - โรงพยาบาลบันทึกข้อมูลผู้ป่วย และพบว่า:
+    > "นายธีรพล สุขสบาย" และ "Teerapol Suksabai" ถูกบันทึกในฐานข้อมูลคนละไฟล์ แต่มีหมายเลขประกันสุขภาพเดียวกัน ส่งผลให้แพทย์ไม่เห็นข้อมูลการรักษาที่ครบถ้วน
