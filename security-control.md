@@ -3,7 +3,7 @@
 ## 🏠 Key Card Dormitory 🏠
 
 ### 💾 Control Function 💾  
-✅ **Preventive** – ป้องกันการเข้าถึงโดยไม่ได้รับอนุญาต  
+✅ **Preventive Control** – ป้องกันการเข้าถึงโดยไม่ได้รับอนุญาต  
 
 ### 🔹 Types of Security Control 🔹  
 - 🛠 **Technical Control** – เป็นใช้เทคโนโลยีอิเล็กทรอนิกส์ที่ใช้สำหรับในการยืนยันตัวตน
