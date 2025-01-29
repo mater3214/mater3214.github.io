@@ -9,7 +9,9 @@
 - 🛠 **Technical Control** – เป็นใช้เทคโนโลยีอิเล็กทรอนิกส์ที่ใช้สำหรับในการยืนยันตัวตน
 - 🚪 **Physical Control** – เป็นจำกัดการเข้าถึงโดยใช้ระบบกุญแจอิเล็กทรอนิกส์
 
- MyPhoto/KeyCard Dormitory.jpg
+
+![KeyCardDomitey](MyPhoto/KeyCardDormitory.jpg) 
+
 
   ### 📌 สรุป
   
