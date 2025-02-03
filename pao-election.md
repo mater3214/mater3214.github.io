@@ -1,1 +1,1 @@
-
+MyPhoto/vote.jpg
