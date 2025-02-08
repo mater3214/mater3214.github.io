@@ -1,6 +1,6 @@
 # 9.2.3 Server Communication Security✨
 
-## 📖 **Description**
+## 📖 ** Description ** 📖
 **✨ Description ✨ :** Verify that all encrypted connections to external systems that involve sensitive information or functions are authenticated
 ---
 
@@ -31,9 +31,8 @@
 ---
 
 
-## 👥 **Team Members**
-- **🎓 6530250441 Pasin Harnkham**
-- **🎓 6530250212 Warakorn Chanthawong**  
-  🔗 **GitHub Profile:** [Thossaphol2204.github.io/security-requirement](https://thossaphol2204.github.io/security-requirement)
-
+## 👥 **My Team**
+- **6530250441 Pasin Harnkham**
+- **6530250212 Warakorn Chanthawong**  
+> GitHub Profile: [https://fairfairfairfair.github.io/security-requirement](https://fairfairfairfair.github.io/security-requirement)
 ---
