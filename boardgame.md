@@ -25,15 +25,15 @@
 **Activity Pictures 🖼️**  
 
 
-![pic1](ME/1png.png)
+![pic1](MyPhoto/1png.png)
 
-![pic2](ME/bg2.png)
+![pic2](MyPhoto/bg2.png)
 
-![pic3](ME/bg3.png)
+![pic3](MyPhoto/bg3.png)
 
 **Activity Video** 🎥
 
-[![pic4](ME/bg4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)
+[![pic4](MyPhoto/bg4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)
 
 
 **Group 🤼** 
