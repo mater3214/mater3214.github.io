@@ -40,5 +40,5 @@
 - 1.[ kiadtiyod hongglin 6530250026 ](https://professerswitch.github.io/boardgame)
 - 2.[ kamolphop panboonlue 6530250301 ](https://l3b1-qw.github.io/board-game)
 - 3.[ chayapol jitnaphets 6530250352](https://copyyu.github.io/boardgame) 
-- 4.[ sintana Suwannacond 6530250255 ](https://sintana11.github.io/boardgame)
+- 4.[ sintana suwannacond 6530250255 ](https://sintana11.github.io/boardgame)
 
